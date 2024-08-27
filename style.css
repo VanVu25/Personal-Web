@@ -57,7 +57,7 @@ nav.navbar {
 }
 #works img {
 	width: 100% !important;
-	height: 250px;
+	/* height: 250px; */
 	transition: transform .5s;
 }
 #works img:hover {
